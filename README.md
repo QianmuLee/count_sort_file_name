@@ -8,4 +8,4 @@ If you want to test using your own folder,
 please Commented out:
    dirname = os.getcwd()
 Then use:
-   dirname = input('lease enter the folder path：')
+   dirname = input('Please enter the folder path：')
