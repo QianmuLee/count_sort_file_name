@@ -20,7 +20,7 @@ if __name__ == '__main__':
     dirname = os.getcwd()
 
     '''or you can input your own path'''
-    #dirname = input('lease enter the folder path：')
+    #dirname = input('Please enter the folder path：')
 
     # Get all filenames in the input directory, and count their occurrences
     filenames = get_filenames(dirname)
