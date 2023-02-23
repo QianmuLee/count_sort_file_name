@@ -1,7 +1,7 @@
 # count_sort_file_name
 You can download the whole folder, it includes all the necessary files for testing
 
-Run the file_count.py to star
+Run the file_count.py to start
 
 
 If you want to test using your own folder, 
